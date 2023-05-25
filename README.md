@@ -16,19 +16,14 @@ Frontend developer
 *   <a href="https://password-generator-app-gragert-mwitt8mx4-gragertvd.vercel.app/">Password generate. Стек: читсый JS, scss</a>
 *   <a href="https://age-calculator-app-main-gragert-1hjqjfyei-gragertvd.vercel.app/">Age calculator. Стек: читсый JS, scss</a>
 
+# Отзыв с фриланса
 ![image](https://github.com/GragertVD/GragertVD/assets/123471464/f557f276-2c1f-4361-9db9-5e8ab34c070f)
 
 ## 🛠 Technical Stack
 *   html/css/scss/Javascript/React/Typescript   
+*   gulp/webpack
 *   GitHub
 
-### My opensource projects
-
-<!-- <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div> -->
 
 <p align='center'>
    <a href="mailto:gragertvd@gmail.com">
