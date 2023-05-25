@@ -13,8 +13,8 @@ Frontend developer
 ### My projects
 *   <a href="http://hosts.su/">Freelancer/ site payform</a>
 *   <a href="https://kanban-task-management-web-app-brown.vercel.app/">Kanban</a>
-*   <a href="password-generator-app-gragert-mwitt8mx4-gragertvd.vercel.app/">Password generate</a>
-*   <a href="age-calculator-app-main-gragert-1hjqjfyei-gragertvd.vercel.app/">Age calculator</a>
+*   <a href="https://password-generator-app-gragert-mwitt8mx4-gragertvd.vercel.app/">Password generate</a>
+*   <a href="https://age-calculator-app-main-gragert-1hjqjfyei-gragertvd.vercel.app/">Age calculator</a>
 
 ## 🛠 Technical Stack
 *   html/css/scss/Javascript/React/Typescript   
