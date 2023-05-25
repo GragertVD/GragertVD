@@ -11,10 +11,12 @@ Frontend developer
 
 
 ### My projects
-*   <a href="http://hosts.su/">Freelancer/ site payform</a>
-*   <a href="https://kanban-task-management-web-app-brown.vercel.app/">Kanban</a>
-*   <a href="https://password-generator-app-gragert-mwitt8mx4-gragertvd.vercel.app/">Password generate</a>
-*   <a href="https://age-calculator-app-main-gragert-1hjqjfyei-gragertvd.vercel.app/">Age calculator</a>
+*   <a href="http://hosts.su/">Freelancer/ site payform. Комерчески заказ на фрилансе, сайт из 4 схожих страниц. Отзыв заказчика на картинке ниже </a>
+*   <a href="https://kanban-task-management-web-app-brown.vercel.app/">Kanban. Стек: React, Typescript</a>
+*   <a href="https://password-generator-app-gragert-mwitt8mx4-gragertvd.vercel.app/">Password generate. Стек: читсый JS, scss</a>
+*   <a href="https://age-calculator-app-main-gragert-1hjqjfyei-gragertvd.vercel.app/">Age calculator. Стек: читсый JS, scss</a>
+
+![image](https://github.com/GragertVD/GragertVD/assets/123471464/f557f276-2c1f-4361-9db9-5e8ab34c070f)
 
 ## 🛠 Technical Stack
 *   html/css/scss/Javascript/React/Typescript   
