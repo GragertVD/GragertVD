@@ -9,12 +9,6 @@ Frontend developer
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </p> -->
 
-## 🛠 Technical Stack
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
 ### My projects
 *   <a href="http://hosts.su/">Freelancer/ site payform.</a>  Комерчески заказ на фрилансе, сайт из 4 схожих страниц. Отзыв заказчика на картинке ниже.
 *   <a href="https://kanban-task-management-web-app-brown.vercel.app/">Kanban.</a> Стек: React, Typescript, Styled-components
@@ -25,6 +19,10 @@ Frontend developer
 ![image](https://github.com/GragertVD/GragertVD/assets/123471464/f557f276-2c1f-4361-9db9-5e8ab34c070f)
 
 ## 🛠 Technical Stack
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 *   html/css/scss/Javascript/React/Typescript/Styled-components
 *   gulp/webpack
 *   GitHub
