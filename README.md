@@ -9,6 +9,11 @@ Frontend developer
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </p> -->
 
+## 🛠 Technical Stack
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 ### My projects
 *   <a href="http://hosts.su/">Freelancer/ site payform. Комерчески заказ на фрилансе, сайт из 4 схожих страниц. Отзыв заказчика на картинке ниже </a>
@@ -23,6 +28,11 @@ Frontend developer
 *   html/css/scss/Javascript/React/Typescript   
 *   gulp/webpack
 *   GitHub
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GragertVD&show_icons=true&theme=gotham" alt="GragertVD" />
 
 
 <p align='center'>
