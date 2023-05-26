@@ -16,7 +16,7 @@ Frontend developer
 
 
 ### My projects
-*   <a href="http://hosts.su/">Freelancer/ site payform. Комерчески заказ на фрилансе, сайт из 4 схожих страниц. Отзыв заказчика на картинке ниже </a>
+*   <a href="http://hosts.su/">Freelancer/ site payform.</a>  Комерчески заказ на фрилансе, сайт из 4 схожих страниц. Отзыв заказчика на картинке ниже.
 *   <a href="https://kanban-task-management-web-app-brown.vercel.app/">Kanban.</a> Стек: React, Typescript, Styled-components
 *   <a href="https://password-generator-app-gragert-mwitt8mx4-gragertvd.vercel.app/">Password generate.</a> Стек: читсый JS, scss
 *   <a href="https://age-calculator-app-main-gragert-1hjqjfyei-gragertvd.vercel.app/">Age calculator.</a> Стек: читсый JS, scss
