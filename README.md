@@ -21,8 +21,8 @@ Frontend developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-*   <font face = "Microsoft Yahei" size=5> html·css·scss·JavaScript·React·TypeScript·Styled-components </font>
-*   gulp/webpack
+*   html · css · scss · JavaScript · React · TypeScript · Styled-components
+*   gulp · webpack
 *   GitHub
 
 
