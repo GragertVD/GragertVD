@@ -10,7 +10,7 @@ Frontend developer
 </p> -->
 
 ### My projects
-*   <a href="http://hosts.su/">Freelancer/ site payform.</a>  Коммерческий заказ, сайт из 4 схожих страниц. Стек: чистый JS, scss. 
+*   <a href="http://hosts.su/">Freelancer/ site payform.</a>  Разработаны 4 страницы (оплата, авторизация, успешный вход, ошибка). Валидация форм, красивая анимация Стек: чистый JS, scss. 
 *   <a href="https://kanban-task-management-web-app-brown.vercel.app/">Kanban.</a> Стек: React, Typescript, Styled-components. <a href="https://github.com/GragertVD/kanban-task-management-web-app">Репозиторий</a>
 *   <a href="https://print-speed.vercel.app/">Print speed training.</a> Стек: React, Redux, Typescript, Styled-components. <a href="https://github.com/GragertVD/print-speed">Репозиторий</a>
 *   <a href="https://password-generator-app-gragert-mwitt8mx4-gragertvd.vercel.app/">Password generate.</a> Стек: чистый JS, scss. <a href="https://github.com/GragertVD/password-generator-app">Репозиторий</a>
