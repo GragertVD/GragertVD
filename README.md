@@ -27,6 +27,11 @@ Frontend developer
 *   gulp · webpack
 *   GitHub
 
+  
+## My article
+*   <a href="https://habr.com/ru/articles/751120/">Habr. React + Styled Components — идеальная анимация. Параметризованная анимация.</a>
+
+
 
 📈 my github stats
 
