@@ -27,7 +27,8 @@ Frontend developer
 *   html · css · scss · JavaScript · React · Redux · Next.js · TypeScript · Styled-components
 *   gulp · webpack
 *   GitHub
-[![codewars](https://www.codewars.com/users/GragertVD/badges/micro)]
+
+![codewars](https://www.codewars.com/users/GragertVD/badges/micro)
   
 ## My article
 *   <a href="https://habr.com/ru/articles/751120/">Habr. React + Styled Components — идеальная анимация. Параметризованная анимация.</a>
