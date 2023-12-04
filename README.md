@@ -18,6 +18,7 @@ Frontend developer
 *   <a href="https://virtual-scroll-lichi.vercel.app/">Catalog Lichi. Virtual scroll</a> Стек: Next js, TypeScripte, react-intersection-observer, .module.scss. <a href="https://github.com/GragertVD/virtual-scroll-lichi">Репозиторий</a>
 *   <a href="https://shopping-list-rho-wheat.vercel.app/">Catalog with cart.</a> Стек: React, React Routers, Redux/Redux-thunk, axios, TypeScripte, styled-components. <a href="https://github.com/GragertVD/shopping-list">Репозиторий</a>
 *   <a href="https://route-on-map.vercel.app/">Route on map.</a> Стек: React, Redux/Redux-sagas, Leaflet, React-Leaflet, TypeScripte, AntDesign, API OSRM. <a href="https://github.com/GragertVD/route-on-map">Репозиторий</a>
+*   <a href="https://todo-app-liart-rho-37.vercel.app/">Todo app multi-window.</a> Стек: React, Redux/Redux-thunk, redux-persist, React Routers, TypeScripte, readux state sync. <a href="https://github.com/GragertVD/todo-app">Репозиторий</a>
 
 ## 🛠 Technical Stack
 
