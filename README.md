@@ -33,7 +33,7 @@ Frontend developer
   
 ## My article
 *   <a href="https://habr.com/ru/articles/751120/">Habr. React + Styled Components — идеальная анимация. Параметризованная анимация.</a>
-
+*   <a href="https://habr.com/ru/articles/776300/">Habr. Многооконное веб приложение — решение для перегруженных интерфейсов.</a>
 
 
 📈 my github stats
